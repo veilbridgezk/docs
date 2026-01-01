@@ -1,0 +1,21 @@
+# Tokenomics ($VEIL)
+
+**Total Supply:** 1,000,000,000 VEIL
+
+### Utility
+- Fee discounts (up to 50% for stakers)
+- Governance voting in VeilDAO
+- Staking rewards
+
+### Allocation
+- 70% Liquidity mining & incentives
+- 10% Community airdrops & grants
+- 10% Team (3-year vesting)
+- 5% Treasury
+- 5% Advisors
+
+### Revenue
+0.3% fee on all transactions:
+- 50% burned
+- 30% to stakers
+- 20% to treasury
