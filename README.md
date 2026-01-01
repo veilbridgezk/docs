@@ -1,4 +1,7 @@
 # VeilBridge
+<div align="center">
+  <img src="assets/logo.png" alt="VeilBridge Logo" width="250"/>
+</div>
 
 **Cross chains. Erase traces.**
 
