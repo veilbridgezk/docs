@@ -13,7 +13,7 @@ VeilBridge is the privacy layer for multichain DeFi.
 **Assets:** ETH, WETH, USDC, USDT, DAI  
 **Chains:** Ethereum, Polygon, BSC, Arbitrum, Optimism, Base
 
-More chains coming post-launch (Solana, Avalanche, zkSync, Base, etc.).
+More chains coming post-launch (Solana, Avalanche, Monad, Soneium, etc.).
 
 ### Mission
 Deliver unbreakable financial privacy in an interconnected multichain world.
