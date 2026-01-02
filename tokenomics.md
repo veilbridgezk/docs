@@ -20,5 +20,5 @@
 - 20% to treasury
 
 <div align="center">
-  <img src="assets/tokenomics.png" alt="VeilBridge Token Distribution" width="600"/>
+  <img src="assets/tokenomic.png" alt="VeilBridge Token Distribution" width="600"/>
 </div>
