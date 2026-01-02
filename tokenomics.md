@@ -18,3 +18,7 @@
 - 50% burned
 - 30% to stakers
 - 20% to treasury
+
+<div align="center">
+  <img src="assets/tokenomics.png" alt="VeilBridge Token Distribution" width="600"/>
+</div>
