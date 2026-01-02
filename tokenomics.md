@@ -8,11 +8,10 @@
 - Staking rewards
 
 ### Allocation
-- 70% Liquidity mining & incentives
-- 10% Community airdrops & grants
+- 75% Liquidity
+- 10% Community airdrops & incentives
 - 10% Team (3-year vesting)
 - 5% Treasury
-- 5% Advisors
 
 ### Revenue
 0.3% fee on all transactions:
